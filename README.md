@@ -11,9 +11,9 @@ La version actual de python
 
 Al dia de la creación de este curso introductorio python se encuentra en su version 3.9.2, paso su documentación para que averigues mas sobre este poderoso lenguaje.
 
-https://docs.python.org/es/3/Tambien 
+https://docs.python.org/es/3/
 
-nesecitan descargar el interprete de python para poder programar en este lenguuaje, aqui dejo el link de la pagina oficial de python para descargar el interprete en su ultima version.
+Tambien nesecitan descargar el interprete de python para poder programar en este lenguuaje, aqui dejo el link de la pagina oficial de python para descargar el interprete en su ultima version.
 
 https://www.python.org/downloads/
 
