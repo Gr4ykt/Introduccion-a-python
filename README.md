@@ -11,7 +11,11 @@ La version actual de python
 
 Al dia de la creación de este curso introductorio python se encuentra en su version 3.9.2, paso su documentación para que averigues mas sobre este poderoso lenguaje.
 
-https://docs.python.org/es/3/
+https://docs.python.org/es/3/Tambien 
+
+nesecitan descargar el interprete de python para poder programar en este lenguuaje, aqui dejo el link de la pagina oficial de python para descargar el interprete en su ultima version.
+
+https://www.python.org/downloads/
 
 Diferencia entre leguaje interpretado y compilado
 
@@ -30,3 +34,15 @@ El concepto de lenguaje interpretado es al momento de ejecutar un codigo, la maq
 Lenguaje Compilado
 
 Un lenguaje compilado posee un traductor al lenguaje maquina para volver ejecutable el codigo, ejemplos de este tipo de lenguaje es C, go, java, etc.
+
+¿Donde puedo comenzar a escribir codigo en python?
+
+A traves de IDE's, o paginas web que poseen interpretes, aqui dejo algunos interpretes online o ides, pero, tambien se puede ejecutar codigo python a traves del mismo terminal, cmd, para ello solo escribimos "python" en la terminal y comenzara a correr el interprete, para salirse del interprete solo pones "exit()", sin mas dilusión, aqui esta la lista
+
+https://www.onlinegdb.com/online_python_interpreter (Interprete online)
+
+https://www.programiz.com/python-programming/online-compiler/ (interprete online)
+
+https://code.visualstudio.com/Download (IDE)
+
+Cabe aclarar que para la programación en python tambien sirve la misma terminal para ejecutar archivos con la extensión .py, y escribir el codigo en bloc de notas, pero recomiendo mas los IDE's para mas orden a la hora de programar, pero esto ya queda a comodidad y gusto de cada quien.
