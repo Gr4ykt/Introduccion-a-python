@@ -1,4 +1,4 @@
-# python_ua_introduccion
+# Introduciendo a python
 Este repositorio esta hecho especificamente para la practica del lenguaje python de forma basica, aunque mi objetivo principal es que comiecen practicando algo sobre python, teniendo en cuenta algunos aspectos basicos a la hora de programar, la idea es que vayas aprendiendo conste a retos que te va proponiendo este repositorio y escribiendo codigo, leyendo los ejemplos, que es muy importante saber leer codigo para poder programar y entender lo que haces
 
 Nota: Se comienza el curso desde el "HolaMundo.py"
