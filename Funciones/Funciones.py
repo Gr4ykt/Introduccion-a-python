@@ -1,16 +1,23 @@
-# los metodos o funciones son acciones que puede realizar un objeto, python tiene algunos metodos ya creados  a nuestra dispocision que podemos
-# utilizar, pero veremos mas a fondo esto en la parte 2 del curso
+# Las funciones es codigo independiente que se puede llamar en cualquier parte del programa, este puede
+# recibir argumentos para poder devolver un resultado
+# Las FUNCIONES y los METODOS DIFIEREN, pero se explicara en conjunto con las CLASES
 
-# para definir una funcion o un metodo, es sencillo, con def + nombre(variables):
+#ejemplo funcion sencilla, que solo retorna un mensaje
+def funcionSencilla():
+    return 'Hola mundo'
+
+# para definir una funcion es sencillo, con def NOMBREFUNCION(variables):
 # ejemplo
 def suma(a, b):
 	return a + b #return sirve para retornar el valor agregado por siguiente
-
+# se pueden utilizar los print, pero es mala practica dentro de las funciones, te invito a que
+# investigues a que se debe esto.
 
 
 # para imprimir la suma es sencillo
 # hacemos un llamado a la funcion suma, y agregamos los valores enteros que corresponderan a "a" y "b"
 print(suma(5, 5))
+print(funcionSencilla())
 
 # Te invito a que ejecutes este codigo y sigas programando mientras esperas la parte 2 de esta introduccion :D
 # a sido un honor que llegaras tan lejos gracias al curso, te invito a que esperes paciente y si no

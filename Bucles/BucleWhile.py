@@ -1,6 +1,8 @@
-# Adelantare el responder que es un bucle en esta parte, me centrare mas que es un bucle while y su diferencia con el bucle for
-# alla vamos!!
-# Tal como dice la palabra "while" "mientras" este bucle se ejecutar mientras la condicion sea verdadera
+"""
+ Adelantare el responder que es un bucle en esta parte, me centrare mas que es un bucle while y su diferencia con el bucle for
+ alla vamos!!
+ Tal como dice la palabra "while" "mientras" este bucle se ejecutar MIENTRAS la condicion sea verdadera
+"""
 
 #declaramos la variable a que vale 0
 a = 0

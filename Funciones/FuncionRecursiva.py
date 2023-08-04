@@ -1,7 +1,10 @@
-#Las funciones recursivas, te recomiendo repasar antes la clase de metodos para entender mejor esta parte
+#Las funciones recursivas, te recomiendo repasar antes la clase de FUNCIONES para entender mejor esta parte
 #bien, empecemos, las funciones recursivas son funciones que se llaman a si mismas, la verdad es que de
-#utilidad no poseen mucho, es mejor utilizar bucles, pero bueno, nunca esta demas aprender a 
-#utilizarlos, no?
+"""
+Una funcion recursiva es un tipo de funcion que se llama asi misma en su entorno,
+utilidad no poseen mucho, es mejor utilizar bucles, pero bueno, nunca esta demas aprender a 
+utilizarlos, no?
+"""
 
 #El ejemplo es el ingreso de una password con una serie de intentos
 
